@@ -1,0 +1,15 @@
+ETS LES JEUNES BÂTISSEURS — Prototype du site web
+=================================================
+Ouvrir index.html dans un navigateur (Chrome conseillé) pour voir le site et ses animations.
+
+Pages : index.html (accueil), realisations.html, contact.html
+Styles : css/style.css (variables de couleurs, typos, durées et courbes d'animation en haut du fichier)
+Animations : js/main.js (aucune bibliothèque requise)
+Images : assets/img (logo détouré en 4 versions + photos retouchées, voir assets/img/LISEZMOI.txt)
+Polices : assets/fonts (Montserrat et Inter, licence libre SIL OFL)
+
+Modifier les textes : directement dans les fichiers .html, ou dans _src/build.py puis
+lancer "python3 _src/build.py" pour régénérer les 3 pages (en-tête et pied de page partagés).
+
+À confirmer avant la mise en ligne : numéro WhatsApp (659 256 672 par défaut), ville
+(Yaoundé), noms des projets de la galerie, envoi réel du formulaire (voir le PDF, page 26).
